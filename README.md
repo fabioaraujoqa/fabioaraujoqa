@@ -10,7 +10,9 @@ Este perfil reúne projetos práticos, provas de conceito e materiais educaciona
 ## 🌐 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fábio%20Araújo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio10)
+
 [![GitHub](https://img.shields.io/badge/GitHub-fabioaraujoqa-181717?style=for-the-badge&logo=github)](https://github.com/fabioaraujoqa)
+
 [![YouTube](https://img.shields.io/badge/YouTube-Papo%20com%20Qualidade-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@PapoQualidade)
 
 ---
@@ -51,28 +53,10 @@ Este perfil reúne projetos práticos, provas de conceito e materiais educaciona
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabioaraujoqa&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioaraujoqa&layout=compact&theme=dark)
-
----
-
-###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=fabioaraujoqa&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=fabioaraujoqa&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fabioaraujoqa/fabioaraujoqa/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fabioaraujoqa/fabioaraujoqa/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fabioaraujoqa/fabioaraujoqa/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 ---
 
 ## 📚 Sobre este GitHub
