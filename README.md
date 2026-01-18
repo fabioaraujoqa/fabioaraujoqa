@@ -55,6 +55,9 @@ Este perfil reúne projetos práticos, provas de conceito e materiais educaciona
 
 ![fabioaraujoqa's Stats](https://github-readme-stats.vercel.app/api?username=fabioaraujoqa&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
 ---
+![fabioaraujoqa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioaraujoqa&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+--- 
 
 ## 📚 Sobre este GitHub
 
