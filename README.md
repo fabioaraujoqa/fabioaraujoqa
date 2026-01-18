@@ -53,10 +53,7 @@ Este perfil reúne projetos práticos, provas de conceito e materiais educaciona
 
 ## 📊 Estatísticas
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=fabioaraujoqa&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-
-</div>
+![fabioaraujoqa's Stats](https://github-readme-stats.vercel.app/api?username=fabioaraujoqa&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
 ---
 
 ## 📚 Sobre este GitHub
